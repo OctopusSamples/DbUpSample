@@ -1,0 +1,1 @@
+exec sp_refreshview @viewname =  'Sample.SampleView'   
