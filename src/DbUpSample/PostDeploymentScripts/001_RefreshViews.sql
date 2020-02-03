@@ -1,1 +1,1 @@
-exec sp_refreshview @viewname =  'Sample.SampleView'   
+-- exec sp_refreshview @viewname =  'Sample.SampleView'   
